@@ -14,10 +14,18 @@ const Projects = () => (
           View Project
         </button>
       </div>
-      <img src="" alt="yoga" className="" />
+         <img
+        src="https://res.cloudinary.com/dbfpqkwko/image/upload/v1704427985/WhatsApp_Image_2024-01-05_at_09.39.39_a136ab80-yoga_gr8w9y.jpg"
+        alt="yoga"
+        className="foga-image"
+      />
     </div>
     <div className="container1">
-      <img src="" alt="Calender" className="" />
+      <img
+        src="https://res.cloudinary.com/dbfpqkwko/image/upload/v1704428003/WhatsApp_Image_2024-01-05_at_09.39.39_4a60d535-clndr_s3zvkt.jpg"
+        alt="Calender"
+        className="calender-image"
+      />
       <div className="con1">
         <h1 className="heading">Project Name</h1>
         <p className="paragraph">
@@ -40,7 +48,11 @@ const Projects = () => (
           View Project
         </button>
       </div>
-      <img src="" alt="yoga" className="" />
+      <img
+        src="https://res.cloudinary.com/dbfpqkwko/image/upload/v1704428021/WhatsApp_Image_2024-01-05_at_09.38.36_bdc5d7be-phn_ygxfg0.jpg"
+        alt="radha krishna"
+        className="whats-image"
+      />
     </div>
   </div>
 )
