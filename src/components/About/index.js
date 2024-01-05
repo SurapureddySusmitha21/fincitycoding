@@ -22,9 +22,9 @@ const About = () => (
       </div>
 
       <img
-        src="https://www.freepik.com/free-photo/young-woman-holding-bunch-flowers_1211898.htm#query=girl%20with%20flower%20image%20for%20protofile&position=9&from_view=search&track=ais&uuid=a64661a4-4709-48dc-b451-f55c4c6541d7"
+        src="https://res.cloudinary.com/dbfpqkwko/image/upload/v1704427968/WhatsApp_Image_2024-01-05_at_09.39.39_b2ec2b9b-flwr_jw4vze.jpg"
         alt="flower"
-        className=""
+        className="flower-image"
       />
     </div>
     <div className="add-project-container">
