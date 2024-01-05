@@ -28,7 +28,7 @@
 .thery-con {
   display: flex;
 
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   margin-top: 30px;
   margin-right: 220px;
@@ -37,4 +37,5 @@
 .pr {
   color: #475569;
   font-size: 18px;
+  margin-right: 20px;
 }
