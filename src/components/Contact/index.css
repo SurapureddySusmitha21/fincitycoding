@@ -8,23 +8,22 @@
   margin-right: 220px;
   margin-left: 250px;
 }
-.iconsst {
-  color: rebeccapurple;
-  font-size: 24px;
-  font-weight: bold;
-  font-family: 'Roboto';
+.insta-image {
+  height: 7vh;
+  width: 3vw;
+  border-radius: 16px;
+  margin-right: 20px;
 }
-.iconsst1 {
-  color: #2dd4bf;
-  font-size: 24px;
-  font-weight: bold;
-  font-family: 'Roboto';
+.linkedin-image {
+  height: 7vh;
+  width: 3vw;
+  border-radius: 16px;
+  margin-right: 20px;
 }
-.iconsst2 {
-  color: #e73959;
-  font-size: 24px;
-  font-weight: bold;
-  font-family: 'Roboto';
+.mail-image {
+  height: 7vh;
+  width: 3vw;
+  border-radius: 16px;
 }
 .thery-con {
   display: flex;
