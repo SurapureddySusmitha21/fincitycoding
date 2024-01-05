@@ -6,11 +6,8 @@ const About = () => (
     <div className="bg-container1">
       <div className="about-container">
         <h1 className="about-heading">UI/UX DESIGNER</h1>
-        <p className="about-paragraph">Hello, my name is Madelyn Torff</p>
-        <p className="length-paragraph">
-          Short text with details about you, what you do or your professional
-          carees. You can add more information on the about page.
-        </p>
+        <p className="about-paragraph">Hello, my name is Susmitha</p>
+        <p className="length-paragraph">I am Full stack developer......</p>
         <div className="btn-conter">
           <button className="project-btn" type="button">
             Prijects
