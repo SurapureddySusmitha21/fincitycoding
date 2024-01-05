@@ -4,9 +4,21 @@ import './index.css'
 const Contact = () => (
   <div className="">
     <div className="bg-coontainer">
-      <p className="iconsst">Instagrm</p>
-      <p className="iconsst1">Linkedin</p>
-      <p className="iconsst2">Email</p>
+      <img
+        src="https://res.cloudinary.com/dbfpqkwko/image/upload/v1704430824/WhatsApp_Image_2024-01-05_at_10.29.22_39f1a145-insta_l6ucuh.jpg"
+        alt="insta"
+        className="insta-image"
+      />
+      <img
+        src="https://res.cloudinary.com/dbfpqkwko/image/upload/v1704430840/WhatsApp_Image_2024-01-05_at_10.29.23_1e1707c6-linkdin_phm05c.jpg"
+        alt="linkedin"
+        className="linkedin-image"
+      />
+      <img
+        src="https://res.cloudinary.com/dbfpqkwko/image/upload/v1704430856/WhatsApp_Image_2024-01-05_at_10.29.23_e194fe9a-email_xsy7oh.jpg"
+        alt="mail"
+        className="mail-image"
+      />
     </div>
     <div className="thery-con">
       <p className="pr">Copyright 2024.</p>
