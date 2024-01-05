@@ -2,6 +2,18 @@
   display: flex;
   flex-direction: column;
 }
+.foga-image {
+  height: 40vh;
+  width: 30vw;
+}
+.calender-image {
+  height: 40vh;
+  width: 30vw;
+}
+.whats-image {
+  height: 40vh;
+  width: 30vw;
+}
 .project-heading {
   color: #ffb800;
   font-size: 45px;
