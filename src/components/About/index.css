@@ -1,6 +1,10 @@
 .about-container {
   margin-right: 10px;
 }
+.flower-image {
+  height: 60vh;
+  width: 30vw;
+}
 .about-heading {
   color: orange;
   font-size: 25px;
